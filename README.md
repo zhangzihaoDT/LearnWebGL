@@ -1,10 +1,6 @@
-# Modular visualization components
+# LearnWebGL
 
-### 本案例升级了 
-
-1. 组件化的[webpack模版](https://segmentfault.com/a/1190000017745622)
-2. 组件化的可视化模版 [artg-2019-week5]
-
+1.[Integrated-2D](https://github.com/I2Djs/I2Djs)-是一个开放源代码Javascript框架，用于在SVG，Canvas和WebGL上下文中呈现2D图形。I2D的简单语法和语义使您可以结合使用矢量图形和位图的功能轻松实现复杂的可视化。
 
 ## Install
 ```
@@ -15,4 +11,3 @@ git remote remove origin
 npm install
 npm run dev
 ```
-# LearnWebGL
