@@ -4,6 +4,8 @@
 
 2.关于webGL的[调研](https://zhuanlan.zhihu.com/p/62250018)
 
+
+3.快速[入门](https://zhuanlan.zhihu.com/p/23272116)
 ## Install
 ```
 git clone git@github.com:zhangzihaoDT/LearnWebGL.git your-app # change your-app to the name of your project
