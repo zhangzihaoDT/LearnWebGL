@@ -4,8 +4,10 @@
 
 2.关于webGL的[调研](https://zhuanlan.zhihu.com/p/62250018)
 
+3.[20个开源WebGL框架](https://medevel.com/16-webgl-opensource-frameworks/)
+WebGL是基于OpenGL的JavaScript API /库，它允许Web浏览器在浏览器中呈现3D / 2D图形，而无需安装额外的插件，桌面应用程序，任何第三方插件或浏览器扩展。WebGL允许通过浏览器使用机器GPU将3D图形渲染为HTML
 
-3.快速[入门](https://zhuanlan.zhihu.com/p/23272116)
+4.快速[入门](https://zhuanlan.zhihu.com/p/23272116)
 ## Install
 ```
 git clone git@github.com:zhangzihaoDT/LearnWebGL.git your-app # change your-app to the name of your project
