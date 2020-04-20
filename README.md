@@ -12,6 +12,7 @@ WebGL是基于OpenGL的JavaScript API /库，它允许Web浏览器在浏览器�
 5.demo[地址](https://discoverthreejs.com/examples/first-steps/)
 
 ## webGL[学习手册](https://bashooka.com/coding/25-beginner-friendly-three-js-tutorials-examples/)
+Udacity[《Interactive 3D Graphics Course with Three.js and WebGL》](https://classroom.udacity.com/courses/cs291/lessons/68866048/concepts/1065730330923)免费线上课程
 
 ## Install
 ```
