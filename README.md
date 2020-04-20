@@ -9,7 +9,10 @@ WebGL是基于OpenGL的JavaScript API /库，它允许Web浏览器在浏览器�
 
 4.快速[入门](https://zhuanlan.zhihu.com/p/23272116)
 
-5.demo学习：[地址](https://discoverthreejs.com/examples/first-steps/)
+5.demo[地址](https://discoverthreejs.com/examples/first-steps/)
+
+### [学习webGL](http://learnwebgl.brown37.net/the_big_picture/3d_rendering.html)
+
 ## Install
 ```
 git clone git@github.com:zhangzihaoDT/LearnWebGL.git your-app # change your-app to the name of your project
